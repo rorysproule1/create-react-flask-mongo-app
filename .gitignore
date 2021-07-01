@@ -1,0 +1,11 @@
+# api gitignores
+__pycache__
+.pyc
+.vscode/settings.json
+api/venv
+api/.flaskenv
+
+# frontend gitignores
+/node_modules
+/.pnp
+.pnp.js
