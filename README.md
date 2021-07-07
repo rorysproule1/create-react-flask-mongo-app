@@ -1,6 +1,8 @@
 # Welcome to this React-Flask-Mongo Quickstart Repo!
 
-Hi! This repository was largely created to make it easier for myself to get a quick demo project up and running and I think it could be useful for others! I've tried to provide explanations and comments on certain aspects of this and also provided some useful links to help troubleshoot any additional issues you may have. Enjoy!
+Hi! This repository was largely created to make it easier for myself to get a quick demo project up and running and I think it could be useful for others! I've tried to provide explanations and comments on certain aspects of this and also provided some useful links to help troubleshoot any additional issues you may have.
+
+Let me know if you find this useful on my LinkedIn - [here](www.linkedin.com/in/rorysproule)
 
 # Getting Started
 
